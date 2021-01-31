@@ -1,21 +1,15 @@
 # Credits
 
 Level Design, 3D Design, Animations:
-
 Kitsuneko
-
 https://sketchfab.com/kitsuneko_3d
 
 Game Programming, Post-Processing Effects:
-
 Okaminu
-
 https://github.com/okaminu
 
 Sound Design, Animations:
-
 AndriusDgt
-
 https://github.com/andriusdgt
 
 ## Assets used from
