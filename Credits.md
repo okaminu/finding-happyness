@@ -20,6 +20,9 @@ Playground by Deshan https://sketchfab.com/3d-models/playground-c5075f4e4a534969
 Toys by Julia Lemke https://sketchfab.com/3d-models/toys-2f622128d566435a97564781735e0ab4
 Farm by eakka https://sketchfab.com/3d-models/house-in-the-forest-ea1355156344495ab2a89613061ad464
 Doghouse by Jays_Artworks https://sketchfab.com/3d-models/doghouse-c1a3f007fe1a4bf88c5844abfaffe08c
+Trees and Well by Olee: https://sketchfab.com/3d-models/issum-the-town-on-capital-isle-e433923a64d549fabb2d30635d643ab6 Author: https://sketchfab.com/Olee
+Dog by Luckypon: https://sketchfab.com/3d-models/low-australian-shepherd-166469433a8948c386d127c6cf374513
+Fish by Damco: https://sketchfab.com/3d-models/anemone-bb1d250c97174f1ca40e1f33f402c271
 
 Music and audio provided by:
 https://orangefreesounds.com/author/alexander/
